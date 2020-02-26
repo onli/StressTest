@@ -1,7 +1,7 @@
 # stressTest
 Android app for stressing and benchmarking your processor
 
-I was searching for a way to put load on the processor in my new phone. In F-Droid, I saw no available option, apart from one mining program that did not start for me. Thus stressTest was started. The name obfuscates that the purpose of the app is also to benchmark the processor, it might be changer later.
+I was searching for a way to put load on the processor in my new phone. In F-Droid, I saw no available option, apart from one mining program that did not start for me. Thus stressTest was started. The name obfuscates that the purpose of the app is also to benchmark the processor, it might get changed later.
 
 ## How it works
 
