@@ -15,3 +15,5 @@ In my tests, this scheme did work to show differences between phones and to put 
 ## Todo
 
 Modern phones will be too fast for the current implementation. The benchmark could be run repeatedly on them, but that would make it rather annoyingto test it on older phones. It should be switched out with a different algorithm that achieves some progress that can be reported and gets run for a fixed amount of time, instead of measuring how long it took.
+
+It would also be nice if during the benchmark the UI would show processor clock, load and the processor temperature. This seems to not be easy to achieve in Android though.
