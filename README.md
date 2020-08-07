@@ -5,7 +5,7 @@ I was searching for a way to put load on the processor in my new phone. In F-Dro
 
 ## How it works
 
-stressTest opens a basic UI with two buttons. If the first gets pressed, as many threads as there are processor cores in the phone start running a benchmark. Initially, that's a [fannkuch-redux implementation](http://benchmarksgame.wildervanck.eu/fannkuchredux-java-1.html) from *The Computer Language
+stressTest opens a basic UI with two buttons. If the first gets pressed, as many threads as there are processor cores in the phone start running a benchmark. Initially, that's a [fannkuch-redux implementation](https://benchmarksgame-team.pages.debian.net/benchmarksgame/program/fannkuchredux-java-1.html) from *The Computer Language
 Benchmarks Game*. 
 
 After the benchmark is run a dialog box will report how long it took.  In my tests, this scheme did work to show differences between phones and to put load on all processors. 
